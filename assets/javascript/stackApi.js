@@ -3,7 +3,7 @@ export function apiInit() {
     SE.init({
         clientId: 12679,
         key: 'llMpok01uLwieV8w1UxwCQ((',
-        channelUrl: 'http://localhost:4200/login',
+        channelUrl: 'https://manukam.github.io/AnguStack/',
         complete: function (data) {
             console.log(data);
         }
